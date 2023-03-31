@@ -23,6 +23,9 @@
 //
 
 /// The header view class of the calendar
+
+import UIKit
+
 open class JTAppleCollectionReusableView: UICollectionReusableView {
     /// Initializes and returns a newly allocated view object with the specified frame rectangle.
     public override init(frame: CGRect) {
